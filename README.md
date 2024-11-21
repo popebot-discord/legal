@@ -1,4 +1,4 @@
-# PopeBot Terms of Service and Privacy Policy  
+# popebot Terms of Service and Privacy Policy  
 
 ## Terms of Service  
 
